@@ -1,8 +1,10 @@
+tensorflow==2.13.0
 pandas
 gdown
 dvc
 mlflow==2.2.2
 notebook
+numpy
 matplotlib
 seaborn
 python-box==6.0.2
